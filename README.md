@@ -12,7 +12,7 @@ When I'm not deep in security tools, I mentor junior CS students and help them f
 - Linux, Git, Docker, React
 
 **A Bit About Me**
-- 🛡️ Passionate about threat intel and attack surface management
-- 📊 Fascinated by prediction markets and how data tells stories
-- 🌍 International student building a career in the UK
-- 🤝 Open to cybersecurity roles — [LinkedIn](https://linkedin.com/in/rajdeep-c)
+- 🍵 Just a coffee person
+- 🎴 Into anime — Demon Slayer is a favorite
+- 🧱 I like building things that are simple, useful, and easy to understand
+- 🌎 Like to watch Geopolities like Netflix
