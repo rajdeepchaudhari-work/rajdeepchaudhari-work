@@ -10,6 +10,6 @@ Git, Docker, React, Node.js
 
 A Bit About Me
 
-🛡️ Aiming for a GRC role 
-🌍 International student navigating tech in the UK  
+🛡️ Aiming for a GRC role    
+🌍 International student navigating tech in the UK   
 🤝 Open to cybersecurity roles and collaborations — LinkedIn  
