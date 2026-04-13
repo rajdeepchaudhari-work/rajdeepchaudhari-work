@@ -13,12 +13,8 @@ When I'm not deep in security tools, I mentor junior CS students and help them f
 ---
 
 ### **Currently Building — Voxlit**
-Privacy-first, open-source macOS voice dictation. Press a hotkey, speak, and the transcript lands in whatever app is focused — all processed locally via bundled whisper.cpp, with optional opt-in cloud transcription.
-
-- **Stack:** TypeScript, React, Electron, Swift (native helper), whisper.cpp, SQLite + Drizzle
-- **Why:** Dictation shouldn't mean shipping your voice to someone else's server
-- **Focus:** Offline-by-default, auditable IPC boundary, universal macOS binary
-
+Privacy-first, open-source macOS voice dictation — press a hotkey, speak, and the transcript lands in whatever app is focused.
+Runs fully offline via bundled whisper.cpp (TypeScript + Electron + Swift native helper), with opt-in cloud transcription.
 ---
 
 ### **Tools & Tech**
